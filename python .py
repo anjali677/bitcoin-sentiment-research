@@ -1,6 +1,6 @@
 # ==============================================================
 # Project: Bitcoin Market Sentiment vs Trader Performance
-# Author: Vaishali
+# Author: ANJALI
 # ==============================================================
 
 # === 1. Import Libraries ===
@@ -140,3 +140,4 @@ plt.show()
 # === 12. Save Cleaned & Merged Data ===
 merged_df.to_csv("merged_trader_sentiment_data.csv", index=False)
 print("\n✅ Analysis Complete! Cleaned dataset saved as 'merged_trader_sentiment_data.csv'.")
+
